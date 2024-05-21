@@ -27,4 +27,12 @@ public class H extends J {
     public void ab() {
         System.out.println("\n");
     }
+
+    public long ac() {
+        return 333;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

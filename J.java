@@ -1,4 +1,4 @@
-public class J implements K {
+public class J extends null implements K {
 
     private int j = 42;
 
@@ -20,12 +20,12 @@ public class J implements K {
         return getClass();
     }
 
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
+    public double ad() {
+        return java.lang.Math.sqrt(13);
     }
 
-    public double ad() {
-        return 12.12;
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 
     public int[] ii() {
@@ -34,5 +34,13 @@ public class J implements K {
 
     public Object pp() {
         return this;
+    }
+
+    public byte oo() {
+        return 2;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
