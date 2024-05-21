@@ -55,4 +55,8 @@ public class J extends null implements K {
     public int af() {
         return -1;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

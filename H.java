@@ -47,4 +47,8 @@ public class H extends J {
     public long dd() {
         return 99999;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

@@ -7,4 +7,8 @@ public class K extends null {
     public int af() {
         return -1;
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
