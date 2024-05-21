@@ -27,4 +27,8 @@ public class J implements K {
     public double ad() {
         return 12.12;
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }
