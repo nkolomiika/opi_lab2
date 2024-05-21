@@ -23,4 +23,8 @@ public class J implements K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }
