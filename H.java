@@ -15,4 +15,8 @@ public class H extends J {
     public double ee() {
         return 100.500;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
