@@ -1,4 +1,4 @@
-public class G extends null {
+public interface G {
 
     int[] ii();
 

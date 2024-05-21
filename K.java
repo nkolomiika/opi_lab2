@@ -1,4 +1,4 @@
-public class K extends null {
+public interface K {
 
     float ff();
 
