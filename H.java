@@ -23,4 +23,8 @@ public class H extends J {
     public Object pp() {
         return this;
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
