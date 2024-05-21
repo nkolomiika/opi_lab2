@@ -19,4 +19,8 @@ public class H extends J {
     public void bb() {
         System.out.println(42);
     }
+
+    public Object pp() {
+        return this;
+    }
 }
