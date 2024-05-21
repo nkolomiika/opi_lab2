@@ -43,4 +43,8 @@ public class J extends null implements K {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
