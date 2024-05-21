@@ -11,4 +11,8 @@ public class H extends J {
     public String kk() {
         return "Hello world";
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
